@@ -75,6 +75,7 @@ int main(int argc, char* argv[])
 	}
 
 	getchar();
+	std::cout << "The End " << std::endl;
 
 	return 0;
 }
